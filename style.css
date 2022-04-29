@@ -1,0 +1,47 @@
+body{
+  background: url(fon.jpeg);
+  background-size: 100%;
+  color: #4d3623;
+}
+.menu1 {
+  width: 230px;
+  height: 290px;
+  margin: 0;
+  padding: 0;
+  background: url(menu_fon.jpeg);
+  background-size: 100%;
+}
+.menu2 {
+  display: block;
+  color: black;
+  margin-left: -2px;
+
+}
+.image1 {
+  margin-left: 220px;
+  margin-top: -210px;
+  size: 200px, 300px;
+}
+.image2 {
+  margin-left: 670px;
+  margin-top: -510px;
+}
+.image3 {
+  margin-left: 1165px;
+  margin-top: -570px;
+}
+.image4 {
+  margin-left: 1620px;
+  margin-top: -560px;
+}
+.info {
+  align-items: center;
+  max-width: 600px;
+  margin-left: 300px;
+}
+.start_men {
+  margin-top: -100px;
+}
+a {
+  color: #4d3623;
+}
