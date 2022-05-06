@@ -15,10 +15,13 @@ body{
   display: block;
   color: black;
   margin-left: -2px;
-
+}
+.table {
+  margin-left: 40%;
+  margin-top: -27%;
 }
 .image1 {
-  margin-left: 220px;
+  margin-left: 13%;
   margin-top: -210px;
   size: 200px, 300px;
 }
